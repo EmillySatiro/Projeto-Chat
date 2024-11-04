@@ -29,7 +29,7 @@ PALAVRAS_BANIDA = [
     "puta",
     "tijolinho",
     "amigo de o3",
-    "emilly",
+    "Emilly",
 ]
 NMR_CLIENTES = 2
 
